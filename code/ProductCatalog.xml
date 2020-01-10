@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+    <TelevisionCatalog>
+        <television id="Sony-X800G">
+            <name>Sony-X800G</name>
+            <price>689.99</price>
+            <image>sony1.jpg</image>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </television>
+        <television id="Sony-X950G">
+            <name>Sony-X950G</name>
+            <price>1599.99</price>
+            <image>sony2.jpg</image>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </television>
+        <television id="Sony-A8G">
+            <name>Sony-A8G</name>
+            <price>1799.99</price>
+            <image>sony3.jpg</image>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </television>
+        <television id="Sony-A9G">
+            <name>Sony-A9G</name>
+            <price>3799.99</price>
+            <image>sony4.jpg</image>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </television>
+        <television id="LG-C9PUA">
+            <name>LG-C9PUA</name>
+            <price>2499.99</price>
+            <image>LG1.jpg</image>
+            <manufacturer>LG</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </television>
+        <television id="LG-UM7300PUA">
+            <name>LG-UM7300PUA</name>
+            <price>699.99</price>
+            <image>LG2.jpg</image>
+            <manufacturer>LG</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </television>
+        <television id="LG-UM6910PUC">
+            <name>LG-UM6910PUC</name>
+            <price>379.99</price>
+            <image>LG3.jpg</image>
+            <manufacturer>LG</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </television>
+        <television id="Samsung-NU6900">
+            <name>Samsung-NU6900</name>
+            <price>379.99</price>
+            <image>samsung1.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </television>
+        <television id="Samsung-Q70">
+            <name>Samsung-Q70</name>
+            <price>1399.99</price>
+            <image>samsung2.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </television>
+        <television id="Samsung-samrt-4K">
+            <name>Samsung-samrt-4K</name>
+            <price>999.99</price>
+            <image>samsung3.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </television>
+        <television id="Samsung-Q80">
+            <name>Samsung-Q80</name>
+            <price>1849.99</price>
+            <image>samsung4.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </television>
+    </TelevisionCatalog>
+    <SoundSystemCatalog>
+        <soundSystem id="Bose-Bass-Module-700">
+            <name>Bose-Bass-Module-700</name>
+            <price>699.99</price>
+            <image>bose1.jpg</image>
+            <manufacturer>Bose</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </soundSystem>
+        <soundSystem id="Bose-Soundlink-Color">
+            <name>Bose-Soundlink-Color</name>
+            <price>129.99</price>
+            <image>bose2.jpg</image>
+            <manufacturer>Bose</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </soundSystem>
+        <soundSystem id="Bose-Soundlink-Revove">
+            <name>Bose-Soundlink-Revove</name>
+            <price>199.99</price>
+            <image>bose3.jpg</image>
+            <manufacturer>Bose</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </soundSystem>
+        <soundSystem id="Bose-SoundTouch">
+            <name>Bose-SoundTouch</name>
+            <price>499.99</price>
+            <image>bose4.jpg</image>
+            <manufacturer>Bose</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </soundSystem>
+        <soundSystem id="JBL-Charge4">
+            <name>JBL-Charge4</name>
+            <price>129.99</price>
+            <image>JBL1.jpg</image>
+            <manufacturer>JBL</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </soundSystem>
+        <soundSystem id="JBL-BoomBox">
+            <name>JBL-BoomBox</name>
+            <price>449.99</price>
+            <image>JBL2.jpg</image>
+            <manufacturer>JBL</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </soundSystem>
+        <soundSystem id="JBL-PartyBox">
+            <name>JBL-PartyBox</name>
+            <price>449.99</price>
+            <image>JBL3.jpg</image>
+            <manufacturer>JBL</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </soundSystem>
+        <soundSystem id="BeatBox">
+            <name>BeatBox</name>
+            <price>449.99</price>
+            <image>beats1.jpg</image>
+            <manufacturer>Beats</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </soundSystem>
+        <soundSystem id="Beats-pill">
+            <name>Beats-pill</name>
+            <price>179.99</price>
+            <image>beats2.jpg</image>
+            <manufacturer>Beats</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </soundSystem>
+    </SoundSystemCatalog>
+<PhoneCatalog>
+    <phone id="iphone11-pro">
+        <name>iphone11-pro</name>
+        <price>999.99</price>
+        <image>apple1.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessory>apple_charger</accessory>
+        <accessory>apple_dataline</accessory>
+        <accessory>apple_case</accessory>
+    </phone>
+    <phone id="iphoneXS">
+        <name>iphoneXS</name>
+        <price>899.99</price>
+        <image>apple2.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessory>apple_charger</accessory>
+        <accessory>apple_dataline</accessory>
+        <accessory>apple_case</accessory>
+    </phone>
+    <phone id="iphone8">
+        <name>iphone8</name>
+        <price>599.99</price>
+        <image>apple3.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+        <accessory>apple_charger</accessory>
+        <accessory>apple_dataline</accessory>
+        <accessory>apple_case</accessory>
+        </accessories>
+    </phone>
+    <phone id="Google-Pixel-3">
+        <name>Google-Pixel-3</name>
+        <price>449.99</price>
+        <image>google1.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </phone>
+    <phone id="Google-Pixel-3-XL">
+        <name>Google-Pixel-3-XL</name>
+        <price>549.99</price>
+        <image>google2.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </phone>
+    <phone id="Google-Pixel-3a">
+        <name>Google-Pixel-3a</name>
+        <price>299.99</price>
+        <image>google3.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </phone>
+    <phone id="Samsung-Galaxy-S10">
+        <name>Samsung-Galaxy-S10</name>
+        <price>749.99</price>
+        <image>samsung1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessory>samsung_charger</accessory>
+        <accessory>samsung_dataline</accessory>
+        <accessory>samsung_case</accessory>
+    </phone>
+    <phone id="Samsung-Galaxy-S9">
+        <name>Samsung-Galaxy-S9</name>
+        <price>449.99</price>
+        <image>samsung2.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessory>samsung_charger</accessory>
+        <accessory>samsung_dataline</accessory>
+        <accessory>samsung_case</accessory>
+    </phone>
+    <phone id="Samsung-Galaxy-Note10+">
+        <name>Samsung-Galaxy-Note10+</name>
+        <price>899.99</price>
+        <image>samsung3.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessory>samsung_charger</accessory>
+        <accessory>samsung_dataline</accessory>
+        <accessory>samsung_case</accessory>
+    </phone>
+    <phone id="Samsung-Galaxy-S10e">
+        <name>Samsung-Galaxy-S10e</name>
+        <price>599.99</price>
+        <image>samsung4.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessory>samsung_charger</accessory>
+        <accessory>samsung_dataline</accessory>
+        <accessory>samsung_case</accessory>
+    </phone>
+</PhoneCatalog>
+<LaptopCatalog>
+    <laptop id="Macbook-Ai">
+        <name>Macbook-Air</name>
+        <price>899.99</price>
+        <image>apple1.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+    <laptop id="Macbook-pro">
+        <name>Macbook-pro</name>
+        <price>1299.99</price>
+        <image>apple2.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+    <laptop id="Macbook-Retina">
+        <name>Macbook-Retina</name>
+        <price>1299.99</price>
+        <image>apple3.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+    <laptop id="Lenovo-Yoga-C630">
+        <name>Lenovo-Yoga-C630</name>
+        <price>599.99</price>
+        <image>lenovo1.jpg</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+    <laptop id="Lenovo-Yoga-730">
+        <name>Lenovo-Yoga-730</name>
+        <price>649.99</price>
+        <image>lenovo2.jpg</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+    <laptop id="Lenovo-IdeaPad">
+        <name>Lenovo-IdeaPad</name>
+        <price>309.99</price>
+        <image>lenovo3.jpg</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+    <laptop id="Lenovo-S340">
+        <name>Lenovo-S340</name>
+        <price>529.99</price>
+        <image>lenovo4.jpg</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+    <laptop id="Samsung-Notebook7">
+        <name>Samsung-Notebook7</name>
+        <price>699.99</price>
+        <image>samsung1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+    <laptop id="Samsung-Notebook9pro">
+        <name>Samsung-Notebook9pro</name>
+        <price>1099.99</price>
+        <image>samsung2.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+    <laptop id="Samsung-chromebook">
+        <name>Samsung-chromebook</name>
+        <price>179.99</price>
+        <image>samsung3.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </laptop>
+</LaptopCatalog>
+<VoiceAssistantCatalog>
+    <voiceAssistant id="Echo-Show5">
+        <name>Echo-Show5</name>
+        <price>64.99</price>
+        <image>echo1.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </voiceAssistant>
+    <voiceAssistant id="Echo-SmartSpeaker">
+        <name>Echo-SmartSpeaker</name>
+        <price>99.99</price>
+        <image>echo2.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </voiceAssistant>
+    <voiceAssistant id="Echo-Dot">
+        <name>Echo-Dot</name>
+        <price>49.99</price>
+        <image>echo3.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </voiceAssistant>
+    <voiceAssistant id="Google-Home">
+        <name>Google-Home</name>
+        <price>99.99</price>
+        <image>google1.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </voiceAssistant>
+    <voiceAssistant id="Google-HomeMini">
+        <name>Google-HomeMini</name>
+        <price>49.99</price>
+        <image>google2.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </voiceAssistant>
+    <voiceAssistant id="Google-Home-Speaker300">
+        <name>Google-Home-Speaker300</name>
+        <price>295.99</price>
+        <image>google3.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </voiceAssistant>
+</VoiceAssistantCatalog>
+<FitnessWatchCatalog>
+    <fitnessWatch id="AppleWatch-Nike-Series5">
+        <name>AppleWatch-Nike-Series5</name>
+        <price>529.99</price>
+        <image>apple1.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </fitnessWatch>
+    <fitnessWatch id="AppleWatch-Nike-Series4">
+        <name>AppleWatch-Nike-Series4</name>
+        <price>449</price>
+        <image>apple2.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </fitnessWatch>
+    <fitnessWatch id="AppleWatch-Nike-Series3">
+        <name>AppleWatch-Nike-Series3</name>
+        <price>409.99</price>
+        <image>apple3.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </fitnessWatch>
+    <fitnessWatch id="Huawei-Terra-B19">
+        <name>Huawei-Terra-B19</name>
+        <price>69.99</price>
+        <image>huawei1.jpg</image>
+        <manufacturer>Huawei</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </fitnessWatch>
+    <fitnessWatch id="Huawei-Bans3-pro">
+        <name>Huawei-Bans3-pro</name>
+        <price>77.95</price>
+        <image>huawei2.jpg</image>
+        <manufacturer>Huawei</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </fitnessWatch>
+    <fitnessWatch id="Huawei-GT-Sport">
+        <name>Huawei-GT-Sport</name>
+        <price>199.99</price>
+        <image>huawei3.jpg</image>
+        <manufacturer>Huawei</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </fitnessWatch>
+    <fitnessWatch id="Samsung-Galaxy-Active2">
+        <name>Samsung-Galaxy-Active2</name>
+        <price>299.99</price>
+        <image>samsung1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </fitnessWatch>
+    <fitnessWatch id="Samsung-Galaxy-Active">
+        <name>Samsung-Galaxy-Active</name>
+        <price>199.99</price>
+        <image>samsung2.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </fitnessWatch>
+    <fitnessWatch id="Samsung-Fit2">
+        <name>Samsung-Fit2</name>
+        <price>179.99</price>
+        <image>samsung3.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </fitnessWatch>
+</FitnessWatchCatalog>
+<SmartWatchCatalog>
+    <smartWatch id="AppleWatch-Series5">
+        <name>AppleWatch-Series5</name>
+        <price>529.99</price>
+        <image>apple1.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartWatch>
+    <smartWatch id="AppleWatch-Series4">
+        <name>AppleWatch-Series4</name>
+        <price>379.00</price>
+        <image>apple2.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartWatch>
+    <smartWatch id="AppleWatch-Series3">
+        <name>AppleWatch-Series3</name>
+        <price>229.00</price>
+        <image>apple3.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartWatch>
+    <smartWatch id="Huawei-SmartWatch">
+        <name>Huawei-SmartWatch</name>
+        <price>322.00</price>
+        <image>huawei1.jpg</image>
+        <manufacturer>Huawei</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartWatch>
+    <smartWatch id="Huawei-Watch2">
+        <name>Huawei-Watch2</name>
+        <price>259.08</price>
+        <image>huawei2.jpg</image>
+        <manufacturer>Huawei</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartWatch>
+    <smartWatch id="Garmin-Forerunner235">
+        <name>Garmin-Forerunner235</name>
+        <price>229.99</price>
+        <image>garmin1.jpg</image>
+        <manufacturer>Garmin</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartWatch>
+    <smartWatch id="Garmin-6X">
+        <name>Garmin-6X</name>
+        <price>999.99</price>
+        <image>garmin2.jpg</image>
+        <manufacturer>Garmin</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartWatch>
+    <smartWatch id="Garmin-fenix">
+        <name>Garmin-fenix</name>
+        <price>499.99</price>
+        <image>garmin3.jpg</image>
+        <manufacturer>Garmin</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartWatch>
+</SmartWatchCatalog>
+<HeadPhoneCatalog>
+    <headPhone id="Beats-solo3">
+        <name>Beats-solo3</name>
+        <price>149.99</price>
+        <image>beats1.jpg</image>
+        <manufacturer>Beats</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </headPhone>
+    <headPhone id="Beats-studio">
+        <name>Beats-studio</name>
+        <price>349.99</price>
+        <image>beats2.jpg</image>
+        <manufacturer>Beats</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </headPhone>
+    <headPhone id="Beats-Powerbeats">
+        <name>Beats-Powerbeats</name>
+        <price>249.99</price>
+        <image>beats3.jpg</image>
+        <manufacturer>Beats</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </headPhone>
+    <headPhone id="Beats-Hearphones">
+        <name>Beats-Hearphones</name>
+        <price>499.99</price>
+        <image>bose1.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </headPhone>
+    <headPhone id="Beats-Noise-Canceling">
+        <name>Beats-Noise-Canceling</name>
+        <price>399.99</price>
+        <image>bose2.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </headPhone>
+    <headPhone id="Beats-SoundLink-Wireless">
+        <name>Beats-SoundLink-Wireless</name>
+        <price>229.99</price>
+        <image>bose3.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </headPhone>
+    <headPhone id="Sony-WH1000XM3">
+        <name>Sony-WH1000XM3</name>
+        <price>349.99</price>
+        <image>sony1.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </headPhone>
+    <headPhone id="Sony-XB900N">
+        <name>Sony-XB900N</name>
+        <price>249.99</price>
+        <image>sony2.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </headPhone>
+    <headPhone id="Sony-WH-RF400">
+        <name>Sony-WH-RF400</name>
+        <price>99.99</price>
+        <image>sony3.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </headPhone>
+</HeadPhoneCatalog>
+<WirelessPlanCatalog>
+    <wirelessPlan id="basic">
+        <name>BasicPlan</name>
+        <price>30</price>
+        <image>Basic.jpg</image>
+        <manufacturer>Basic</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </wirelessPlan>
+    <wirelessPlan id="Premium">
+        <name>PremiumPlan</name>
+        <price>40</price>
+        <image>Premium.jpg</image>
+        <manufacturer>Premium</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </wirelessPlan>
+    <wirelessPlan id="Ultimate">
+        <name>UltimatePlan</name>s
+        <price>45</price>
+        <image>Ultimate.jpg</image>
+        <manufacturer>Ultimate</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </wirelessPlan>
+</WirelessPlanCatalog>
+<AccessoryCatalog>
+	<accessory id="apple_charger">
+        <name>apple_charger</name>
+        <price>16.99</price>
+        <image>apple_charger.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+	</accessory>
+    <accessory id="apple_dataline">
+        <name>apple_dataline</name>
+        <price>8.49</price>
+        <image>apple_dataline.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </accessory>
+    <accessory id="apple_case">
+        <name>apple_case</name>
+        <price>39</price>
+        <image>apple_case.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </accessory>
+    <accessory id="samsung_charger">
+        <name>samsung_charger</name>
+        <price>5.1</price>
+        <image>samsung_charger.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </accessory>
+    <accessory id="samsung_dataline">
+        <name>samsung_dataline</name>
+        <price>8.8</price>
+        <image>samsung_dataline.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </accessory>
+    <accessory id="samsung_case">
+        <name>samsung_case</name>
+        <price>39.9</price>
+        <image>samsung_case.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </accessory>
+</AccessoryCatalog>
+
+</ProductCatalog>
